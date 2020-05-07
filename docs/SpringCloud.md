@@ -1,8 +1,6 @@
 ## SpringCloud常用组件
 
-### 1. 服务注册与发现
-
-#### 1.1 eureka
+[服务注册与发现(eureka)](./docs/eureka.md)
 
 ### 2. 服务调用
 
