@@ -42,8 +42,6 @@
 
 * 公司常用技术
 
-    - [Spring Security与Oauth2.0](./docs/Spring Security与Oauth2.0.md)
-
     - 消息中间件
 
       - [rabbitmq](./docs/消息中间件/rabbitmq.md)
