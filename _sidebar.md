@@ -8,13 +8,13 @@
 
       
 
-* Java基础知识
+* 重温Java基础知识
 
-    - 容器
+    - [容器](Java基础知识/容器.md)
 
     - 并发编程
 
-    - 基础
+    - [基础](Java基础知识/基础.md)
 
       
 
@@ -45,9 +45,6 @@
     - 消息中间件
 
       - [rabbitmq](./docs/消息中间件/rabbitmq.md)
-
       - [Rocket MQ](./docs/消息中间件/RocketMQ.md)
-
       - [kafka](./docs/消息中间件/kafka.md)
-
-        
+    - [redis](./docs/redis.md)
